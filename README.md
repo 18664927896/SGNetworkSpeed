@@ -34,3 +34,6 @@
     _bufferLabel.text = [NSString stringWithFormat:@"正在缓冲，请稍等...\n%@",str];
     
 }
+
+
+参考链接：https://www.jianshu.com/p/92cdf01c291a
